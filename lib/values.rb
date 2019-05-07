@@ -11,3 +11,4 @@ require 'pry'
 def get_the_values(groceries)
   groceries.keys.each do |food_group, example|
 end
+end
